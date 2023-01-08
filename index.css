@@ -99,6 +99,9 @@ body{
     align-items: center;
 }
 /* ...........pic1......... */
+#p12{
+    padding: 7%;
+}
 #dld1{
     padding: 7%;
 }
@@ -106,8 +109,8 @@ body{
     color: white;
     background-color: blueviolet;
     border-radius: 30px;
-    width: 25%;
-    height: 15%;
+    width: 30%;
+    height: 10%;
     border-color: blueviolet;
 }
 #b4:hover{
