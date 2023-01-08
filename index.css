@@ -99,6 +99,9 @@ body{
     align-items: center;
 }
 /* ...........pic1......... */
+#dld1{
+    padding: 7%;
+}
 #b4{
     color: white;
     background-color: blueviolet;
