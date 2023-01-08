@@ -1,0 +1,135 @@
+body{
+    height: 2000px;
+}
+/* ....... navbar1........... */
+#nav1{
+    height: 60px;
+    color: white;
+    background-color: blueviolet;
+}
+#k1{
+    margin-right: 10px;
+}
+/* ........navbar2........ */
+#l1{
+    height: 55px;
+}
+.col1:hover{
+    color: blueviolet;
+    background-color: rgba(0,0,0,0);
+}
+#nav2{
+    margin-top: 50px;
+}
+/* .....carousel......... */
+/* ...img... */
+#i1{
+    filter: brightness(50%);
+}
+
+#car1{
+    margin-top: 100px;
+}
+.col{
+    height: 500px;
+}
+#b1{
+    color: white;
+    background-color: blueviolet;
+    border-radius: 30px;
+    height: 55px;
+    width: 20%;
+}
+#b1:hover{
+    background-color: rgb(188, 132, 241);
+}
+#h1{
+    font-size: 70px;
+}
+#p1
+{
+    width: 53.5%;
+}
+/* ..h1,p1,b1.. */
+#f1{
+    margin-bottom: 60px;
+}
+#h2{
+    font-size: 70px;
+    width: 80%;
+}
+#f2{
+    margin-bottom: 20px;
+}
+#p2{
+    width: 50%;
+}
+/* ......modal..... */
+#b2{
+    color: white;
+    background-color: blueviolet;
+    border-radius: 30px;
+    border-color: blueviolet;
+}
+#b2:hover{
+    color: blueviolet;
+    background-color: rgba(0,0,0,0);
+}
+.tb1{
+    border: 0px;
+}
+#b3{
+    color: white;
+    background-color: blueviolet;
+    border: 0px;
+    width: 30%;
+}
+#b3:hover{
+    background-color: rgb(188, 132, 241);
+}
+#dm{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.sc{
+    width: 100%;
+}
+.mo1{
+    width:800px;
+    align-items: center;
+}
+/* ...........pic1......... */
+#b4{
+    color: white;
+    background-color: blueviolet;
+    border-radius: 30px;
+    width: 25%;
+    height: 15%;
+    border-color: blueviolet;
+}
+#b4:hover{
+    color: blueviolet;
+    background-color: rgba(0,0,0,0);
+}
+#h4{
+    color: blueviolet;
+}
+#p4{
+    color: rgb(188, 132, 241);
+}
+.col-7{
+    padding: 100px;
+}
+/* ..........pic2.......... */
+#h5{
+    color: blueviolet;
+}
+span{
+    color: rgb(188, 132, 241);
+}
+#h6{
+    color: blueviolet;
+}
+#p5{
+    color: blueviolet;
+}
